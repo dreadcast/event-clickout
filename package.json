@@ -1,0 +1,22 @@
+{
+	"name": "event-clickout",
+	"version": "0.0.1",
+	"homepage": "https://github.com/dreadcast/event-clickout",
+	"description": "Simulates clickout event or blur-like event on any dom element",
+	"author": "Raphael Gully",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:dreadcast/event-clickout.git"
+	},
+	"license": "WTFPL",
+	"keywords": [
+		"event",
+		"dom"
+	],
+	"dependencies": {
+		"weakmap": "latest",
+		"element-lax-match": "0.0.1"
+	},
+
+	"main": "src/event-clickout.js"
+}
